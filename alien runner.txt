@@ -1,0 +1,16 @@
+alien runner
+
+pc: the ship that you controll (rocket ship)
+npc: alien ships that cant be controlled
+
+rules: left arrow to go left, right arrow to go right, space to shoot you can only shoot every 1 second, there are 5 levels each level gets harder
+
+adaptive:everytime you finish a wave of aliens you level up maximum level is level 5
+
+balanced: make it start easy but get harder not to easy but not too hard
+
+chance and skill: chance:the aliens miss they lazer and skill is to dodge the lazer and hit the aliens
+
+feedback:sounds of shooting and leveling up
+
+gamestory : someone stole a gem from an alien now hes getting attacked by all aliens
